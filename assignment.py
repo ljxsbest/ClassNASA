@@ -8,6 +8,7 @@ class NASA:
     spec1 = ["", 0, 0, 0, []]
     spec2 = ["", 0, 0, 0, []]
     spec3 = ["", 0, 0, 0, []]
+    Tlow = 0
     Thigh = 0
     fraction = []
     R = 8.314
